@@ -1,0 +1,170 @@
+[
+  {
+    "slug": "mirage",
+    "name": "Mirage",
+    "nameZh": "荒漠迷城",
+    "summary": "中路控图、A 区爆弹与 B 区夹击的经典地图。",
+    "difficulty": "入门到进阶",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80",
+    "color": "sand",
+    "highlights": [
+      "中路争夺影响两侧转点",
+      "A 区执行需要处理连接位与票亭",
+      "B 区进攻注意短管与厨房方向"
+    ],
+    "sections": [
+      {
+        "title": "T 方基础思路",
+        "body": "开局优先争取中路信息，再根据 CT 的道具和站位选择 A 区爆弹、B 区夹击或回防转点。不要在没有信息时连续单人送出首杀。"
+      },
+      {
+        "title": "CT 方基础思路",
+        "body": "通过中路烟、窗口位和连接位建立信息链。前期不必强行对枪，保留关键道具应对中后期执行。"
+      },
+      {
+        "title": "常见失误",
+        "body": "队伍没有同步就提前进入包点；中路控制后没有安排补位；残局时忽略交叉火力。"
+      }
+    ]
+  },
+  {
+    "slug": "dust2",
+    "name": "Dust2",
+    "nameZh": "炙热沙城2",
+    "summary": "长 A、中门与 B 洞构成主要进攻路线。",
+    "difficulty": "新手友好",
+    "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1200&q=80",
+    "color": "sand",
+    "highlights": [
+      "长 A 控制需要闪光配合",
+      "中门争夺决定转点效率",
+      "B 洞推进注意交叉火力"
+    ],
+    "sections": [
+      {
+        "title": "T 方基础思路",
+        "body": "长 A 需要先用闪光压制防守位；中门路线要明确谁负责观察和补枪。避免全队挤在单一通道。"
+      },
+      {
+        "title": "CT 方基础思路",
+        "body": "长 A 前压风险较高，应确保有队友补位。中门和 B 点之间要保持信息沟通，及时判断转点。"
+      },
+      {
+        "title": "常见失误",
+        "body": "长 A 没有道具就干拉；下包后全员离开交叉火力；残局没有利用时间优势。"
+      }
+    ]
+  },
+  {
+    "slug": "inferno",
+    "name": "Inferno",
+    "nameZh": "炼狱小镇",
+    "summary": "香蕉道控制、教堂与中路争夺是关键。",
+    "difficulty": "进阶",
+    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1200&q=80",
+    "color": "warm",
+    "highlights": [
+      "香蕉道道具交换频繁",
+      "A 区执行注意二楼与侧道",
+      "回防路线容易被分割"
+    ],
+    "sections": [
+      {
+        "title": "T 方基础思路",
+        "body": "通过香蕉道道具争夺逼出 CT 资源，再判断 B 区执行或转 A。队伍需要为侧道和回防路线安排观察。"
+      },
+      {
+        "title": "CT 方基础思路",
+        "body": "不要无计划地重复争夺香蕉道。记录对手使用的道具，合理保留燃烧弹与烟雾弹应对爆弹。"
+      },
+      {
+        "title": "常见失误",
+        "body": "前期把所有道具交完；转点时没有控住关键通道；下包后站位过于集中。"
+      }
+    ]
+  },
+  {
+    "slug": "nuke",
+    "name": "Nuke",
+    "nameZh": "核子危机",
+    "summary": "上下层联动明显，信息沟通和转点速度很重要。",
+    "difficulty": "进阶",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "color": "cool",
+    "highlights": [
+      "上下层信息必须明确",
+      "外场烟雾可帮助安全转移",
+      "回防要确认包点层级"
+    ],
+    "sections": [
+      {
+        "title": "T 方基础思路",
+        "body": "外场控制和上下层假动作可以制造防守轮转。执行前明确目标层级和包点路线，避免队伍被楼梯和门口分割。"
+      },
+      {
+        "title": "CT 方基础思路",
+        "body": "优先共享外场与内场信息，避免多人同时离开关键区域。根据对方道具和脚步判断是否需要轮转。"
+      },
+      {
+        "title": "常见失误",
+        "body": "没有报清上下层；转点路线暴露给单人防守；残局中忘记确认包点位置。"
+      }
+    ]
+  },
+  {
+    "slug": "ancient",
+    "name": "Ancient",
+    "nameZh": "远古遗迹",
+    "summary": "中路与洞口争夺决定进攻节奏。",
+    "difficulty": "进阶",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
+    "color": "green",
+    "highlights": [
+      "中路控制影响两侧路线",
+      "狭窄通道适合组合道具",
+      "进攻时注意补枪距离"
+    ],
+    "sections": [
+      {
+        "title": "T 方基础思路",
+        "body": "先争夺中路空间并逼出关键道具，再决定进入 A 或 B。狭窄通道推进要同步闪光和补枪。"
+      },
+      {
+        "title": "CT 方基础思路",
+        "body": "避免无信息前压。通过队友交叉火力覆盖主要入口，并在对手执行时保留反制道具。"
+      },
+      {
+        "title": "常见失误",
+        "body": "分散进入通道；忽略中路被穿插；下包后没有明确防守分工。"
+      }
+    ]
+  },
+  {
+    "slug": "overpass",
+    "name": "Overpass",
+    "nameZh": "死亡游乐园",
+    "summary": "长距离视野、连接位和水下路线让控图更重要。",
+    "difficulty": "进阶",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "color": "green",
+    "highlights": [
+      "控图要兼顾长距离视野",
+      "连接位适合建立信息优势",
+      "转点前先确认防守资源"
+    ],
+    "sections": [
+      {
+        "title": "T 方基础思路",
+        "body": "利用道具争取关键区域，再通过信息决定是否转点。不要在没有补枪和烟雾掩护时长时间停留在开阔地带。"
+      },
+      {
+        "title": "CT 方基础思路",
+        "body": "保持区域间的信息互通，避免因为单点失守导致整条防线被切断。根据道具交换判断进攻方向。"
+      },
+      {
+        "title": "常见失误",
+        "body": "过早暴露站位；转点前未控制连接区域；队伍缺少残局交叉火力。"
+      }
+    ]
+  }
+]

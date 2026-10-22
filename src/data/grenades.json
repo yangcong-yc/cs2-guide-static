@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "mirage-window-smoke",
+    "title": "Mirage 中路窗口烟",
+    "map": "Mirage",
+    "side": "T 方",
+    "type": "烟雾弹",
+    "difficulty": "中等",
+    "purpose": "封锁窗口视线，帮助队伍安全争取中路空间。",
+    "position": "中路附近指定站位（请在训练服核对具体坐标）",
+    "steps": [
+      "到达预设站位并确认周围安全。",
+      "对准参考截图中的标记点；不同分辨率和视角可能需要微调。",
+      "使用标准投掷动作投出，观察烟雾是否完整封住窗口视线。",
+      "在训练服复现数次，记录自己稳定的准星位置。"
+    ],
+    "note": "站位与准星图片尚待补充；本文为训练流程示例，不应视为已验证的精确投掷点。",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "slug": "mirage-connector-flash",
+    "title": "Mirage 中路协同闪",
+    "map": "Mirage",
+    "side": "T 方",
+    "type": "闪光弹",
+    "difficulty": "简单",
+    "purpose": "配合队友争取中路视野，降低单人探头风险。",
+    "position": "中路入口附近，确保不会闪到己方队友。",
+    "steps": [
+      "提前与队友沟通探身时机。",
+      "将闪光弹投向能够在敌方视角附近爆开的区域。",
+      "队友听到爆闪后同步探身，避免各自单独行动。",
+      "复盘闪光是否过早、过晚或影响队友。"
+    ],
+    "note": "建议先在自建训练服验证投掷轨迹与队友视角。",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "slug": "dust2-long-flash",
+    "title": "Dust2 长 A 协同闪",
+    "map": "Dust2",
+    "side": "T 方",
+    "type": "闪光弹",
+    "difficulty": "简单",
+    "purpose": "帮助队伍争夺长 A 入口，创造同步推进窗口。",
+    "position": "长 A 入口安全掩体后。",
+    "steps": [
+      "确认队友已经到达推进位置。",
+      "将闪光投向敌方可能观察长 A 的方向。",
+      "队友在爆闪窗口同步移动并互相补枪。",
+      "避免在队友已经转身或距离过近时投掷。"
+    ],
+    "note": "此条为战术协作模板，具体站位需在当前游戏版本中验证。",
+    "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "slug": "inferno-banana-molly",
+    "title": "Inferno 香蕉道燃烧弹思路",
+    "map": "Inferno",
+    "side": "CT 方",
+    "type": "燃烧弹",
+    "difficulty": "中等",
+    "purpose": "延缓香蕉道推进并迫使对手消耗时间或道具。",
+    "position": "香蕉道防守侧可安全投掷的位置。",
+    "steps": [
+      "观察对方是否已投入烟雾或闪光。",
+      "根据队伍分工投向主要推进路线。",
+      "燃烧弹生效后及时报告对方人数和可能转点方向。",
+      "避免重复堆叠无效道具，保留资源应对后续执行。"
+    ],
+    "note": "实际落点和燃烧范围需要通过当前版本训练服确认。",
+    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "slug": "nuke-outside-smoke",
+    "title": "Nuke 外场烟雾协同",
+    "map": "Nuke",
+    "side": "T 方",
+    "type": "烟雾弹",
+    "difficulty": "困难",
+    "purpose": "降低外场长视线带来的风险，为队伍转移创造机会。",
+    "position": "外场预设集结位置。",
+    "steps": [
+      "全队先确认计划路线与集合时机。",
+      "依次投掷烟雾，检查烟雾之间是否存在明显视线缺口。",
+      "在烟雾生效期间快速通过，不要无必要地停留。",
+      "训练时记录每个烟雾的覆盖范围并调整顺序。"
+    ],
+    "note": "外场投掷物组合受版本和站位影响，正式发布前应录制实测素材。",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80"
+  }
+]

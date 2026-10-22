@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "mirage-mid-control",
+    "title": "Mirage 中路控图：基础站位与协同",
+    "map": "Mirage",
+    "category": "地图战术",
+    "duration": "08:45",
+    "views": "2.4万",
+    "summary": "从信息获取、道具交换到中路转点，理解一套可复用的控图思路。",
+    "embedUrl": "",
+    "cover": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "slug": "dust2-long-a",
+    "title": "Dust2 长 A 推进：闪光与补枪配合",
+    "map": "Dust2",
+    "category": "团队配合",
+    "duration": "12:36",
+    "views": "1.8万",
+    "summary": "拆解长 A 推进中的协同顺序、补枪距离和常见失误。",
+    "embedUrl": "",
+    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "slug": "ak-spray-basics",
+    "title": "AK-47 压枪基础：训练方法与复盘",
+    "map": "训练",
+    "category": "枪法训练",
+    "duration": "10:21",
+    "views": "1.6万",
+    "summary": "用短时、可重复的训练流程建立压枪手感，并记录命中表现。",
+    "embedUrl": "",
+    "cover": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "slug": "nuke-outside",
+    "title": "Nuke 外场执行：烟雾组合与路线选择",
+    "map": "Nuke",
+    "category": "投掷物",
+    "duration": "14:32",
+    "views": "1.2万",
+    "summary": "学习外场烟雾的协作原则，以及通过烟雾转移时的团队分工。",
+    "embedUrl": "",
+    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
+  }
+]

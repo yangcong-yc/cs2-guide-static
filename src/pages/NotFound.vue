@@ -1,0 +1,1 @@
+<template><div class="page-wrap not-found"><p class="eyebrow">404 / NOT FOUND</p><h1>这个点位还没被发现。</h1><p>页面不存在，或攻略地址已经更新。</p><RouterLink to="/" class="btn btn-primary">返回首页</RouterLink></div></template>
